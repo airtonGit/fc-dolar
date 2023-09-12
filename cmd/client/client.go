@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	requestTimeout  = 300
+	requestTimeout  = 3000
 	urlRequest      = "http://127.0.0.1:8080/cotacao"
 	cotacaoFilename = "cotacao.txt"
 )

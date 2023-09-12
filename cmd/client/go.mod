@@ -1,4 +1,4 @@
-module fc-dolar
+module fc-dolar-client
 
 go 1.21
 

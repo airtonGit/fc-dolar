@@ -17,8 +17,8 @@ const (
 	urlCotacao = "https://economia.awesomeapi.com.br/json/last/USD-BRL"
 	dbFile     = "fc-dolar.db"
 
-	apiTimeout = 200
-	dbTimeout  = 10
+	apiTimeout = 2000
+	dbTimeout  = 100
 )
 
 func main() {
